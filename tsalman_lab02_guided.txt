@@ -1,0 +1,12 @@
+# Tsbih Salman
+
+# The process I used to do this lab was that I created a file using 'vim .vimrc' 
+command and inserted the configurations below to customize my VIM. I then added the configuation 'set smartcase' and saved and quit the file. I then copyed the and renamed the file in one command. Inside I wrote my full name and the procces I went on to do this lab02.
+
+syntax on
+set ruler
+set autoindent
+set number
+set ingorcase
+color elflord
+set smartcase
