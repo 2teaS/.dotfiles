@@ -1,5 +1,5 @@
 chmod +X ./bin/cleanup.sh
-chmod +X ./bin/linux.wsh
+chmod +X ./bin/linux.sh
 
 
 #declaring target to linux with dependency on clean
