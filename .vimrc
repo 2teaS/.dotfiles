@@ -3,5 +3,5 @@ set ruler
 set autoindent
 set number
 set ingorcase
-color elflord
+color Bold blue
 set smartcase
